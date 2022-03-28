@@ -5,13 +5,11 @@
 Lead Developpeur Fullstack chez Hospitalink
 
 - Je travail sur du NestJS et du QuasarJS en ce moment
-- J'apprend React en ce moment 
 
 # 🇬🇧
 
 Lead Fullstack Engineer at Hospitalink
 - Working on NestJS and Quasar for medical communication app
-- I’m currently learning React 
 
 <br> <br>
 
