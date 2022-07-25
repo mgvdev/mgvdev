@@ -2,14 +2,11 @@
 
 # 🇫🇷
 
-Lead Developpeur Fullstack chez Hospitalink
-
-- Je travail sur du NestJS et du QuasarJS en ce moment
+Lead Developpeur Fullstack chez Comet
 
 # 🇬🇧
 
-Lead Fullstack Engineer at Hospitalink
-- Working on NestJS and Quasar for medical communication app
+Lead Fullstack Engineer at Comet
 
 <br> <br>
 
