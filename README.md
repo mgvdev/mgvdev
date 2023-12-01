@@ -2,11 +2,11 @@
 
 # 🇫🇷
 
-Lead Developpeur Fullstack chez Comet
+Lead Developpeur Fullstack chez The Residency
 
 # 🇬🇧
 
-Lead Fullstack Engineer at Comet
+Lead Fullstack Engineer at The Residency
 
 <br> <br>
 
