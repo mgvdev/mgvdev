@@ -35,7 +35,7 @@ I’m a Fullstack engineer who loves to try and learn a lot of things, and is pa
 ![NodeJs](https://img.shields.io/badge/Nodejs-%23323330.svg?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23404d59.svg?style=for-the-badge&logo=fastify&logoColor=%2361DAFB)
-![AdonisJs](https://img.shields.io/badge/AdonisJs-%23E0234E.svg?style=for-the-badge&logo=adonisjs&logoColor=%eeeeff)
+![AdonisJs](https://img.shields.io/badge/AdonisJs-%235A45FF.svg?style=for-the-badge&logo=adonisjs&logoColor=%eeeeff)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
