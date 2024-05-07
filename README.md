@@ -8,6 +8,8 @@ Lead Developpeur Fullstack chez The Residency
 
 Lead Fullstack Engineer at The Residency
 
+I’m a Fullstack engineer who loves to try and learn a lot of things, and is passionate about coding. I spend a huge part of my free time reading articles about code, technique, patterns… I always try to solve the problem in the most simple and effective way, while maintaining a clear and readable code. I’m patient, pedagogue but demanding, I always want to deliver value for users with comfort for developers.
+
 <br> <br>
 
 
@@ -29,8 +31,11 @@ Lead Fullstack Engineer at The Residency
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bunjs](https://img.shields.io/badge/Bunjs-%23323330.svg?style=for-the-badge&logo=bun&logoColor=%eeeeff)
+![NodeJs](https://img.shields.io/badge/Nodejs-%23323330.svg?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23404d59.svg?style=for-the-badge&logo=fastify&logoColor=%2361DAFB)
+![AdonisJs](https://img.shields.io/badge/AdonisJs-%23323330.svg?style=for-the-badge&logo=adonisjs&logoColor=%eeeeff)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
