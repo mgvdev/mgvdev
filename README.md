@@ -2,11 +2,11 @@
 
 # 🇫🇷
 
-Lead Developpeur Fullstack chez The Residency
+Lead Developpeur Fullstack Freelance
 
 # 🇬🇧
 
-Lead Fullstack Engineer at The Residency
+Freelance Lead Fullstack Engineer
 
 I’m a Fullstack engineer who loves to try and learn a lot of things, and is passionate about coding. I spend a huge part of my free time reading articles about code, technique, patterns… I always try to solve the problem in the most simple and effective way, while maintaining a clear and readable code. I’m patient, pedagogue but demanding, I always want to deliver value for users with comfort for developers.
 
@@ -29,6 +29,7 @@ I’m a Fullstack engineer who loves to try and learn a lot of things, and is pa
 
 ### Backend
 
+![Laravel](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=%2FF2D20)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bunjs](https://img.shields.io/badge/Bunjs-%23323330.svg?style=for-the-badge&logo=bun&logoColor=%eeeeff)
