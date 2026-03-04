@@ -1,4 +1,6 @@
-### Hello World :wave: 
+<p align="center">
+  Hello World :wave: 
+</p>
 
 <p align="center">
   <samp>
